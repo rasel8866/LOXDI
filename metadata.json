@@ -1,0 +1,6 @@
+{
+  "name": "Income Task",
+  "description": "Earn rewards by completing premium tasks in an elegant Neon Purple themed user dashboard with wallet withdraw, referral system, history tracking, and interactive tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
